@@ -16,4 +16,6 @@ post_date: 2018-04-20 12:14:32
 										<img width="512" height="512" src="http://35.189.33.33/wp-content/uploads/2018/04/1470399594_Web_Design.png" alt="" srcset="http://35.189.33.33/wp-content/uploads/2018/04/1470399594_Web_Design.png 512w, http://35.189.33.33/wp-content/uploads/2018/04/1470399594_Web_Design-150x150.png 150w, http://35.189.33.33/wp-content/uploads/2018/04/1470399594_Web_Design-300x300.png 300w" sizes="(max-width: 512px) 100vw, 512px" />											
 			<h3>GOVERNMENT WEBSITES</h3>		
 <a style="color: #000080;" href="http://www.quitnow.gov.au/">http://www.quitnow.gov.au/</a>
-										<img width="984" height="95" src="http://35.189.33.33/wp-content/uploads/2018/04/smokewebsite.png" alt="" srcset="http://35.189.33.33/wp-content/uploads/2018/04/smokewebsite.png 984w, http://35.189.33.33/wp-content/uploads/2018/04/smokewebsite-300x29.png 300w, http://35.189.33.33/wp-content/uploads/2018/04/smokewebsite-768x74.png 768w" sizes="(max-width: 984px) 100vw, 984px" />
+										<img width="984" height="95" src="http://35.189.33.33/wp-content/uploads/2018/04/smokewebsite.png" alt="" srcset="http://35.189.33.33/wp-content/uploads/2018/04/smokewebsite.png 984w, http://35.189.33.33/wp-content/uploads/2018/04/smokewebsite-300x29.png 300w, http://35.189.33.33/wp-content/uploads/2018/04/smokewebsite-768x74.png 768w" sizes="(max-width: 984px) 100vw, 984px" />											
+												References  					
+					<p><u>https://www.rd.com/health/wellness/quit-smoking/</u></p><p><u>http://www.quitnow.gov.au/.</u></p>
