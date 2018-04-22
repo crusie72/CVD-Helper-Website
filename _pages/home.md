@@ -32,11 +32,11 @@ post_date: 2018-04-14 20:45:25
 			<h3>What Our Costumers say</h3>		
 										<img width="204" height="204" src="http://35.189.33.33/wp-content/uploads/2018/04/1-1.jpg" alt="" srcset="http://35.189.33.33/wp-content/uploads/2018/04/1-1.jpg 204w, http://35.189.33.33/wp-content/uploads/2018/04/1-1-150x150.jpg 150w" sizes="(max-width: 204px) 100vw, 204px" />											
 				<p>
-					I've managed to stay with  FitFlex 3 times a week, for over 6 months now, and I owe it all to the classes that make you fall in love with the process.
+					As a person having high cholesterol levels and blood pressure, I was always worried about my risks of developing heart diseases. The 'CVD Helper' website provides good tips to improve one's lifestyle to reduce the risk of heart diseases. The information provided is simple to understand and I find it really beneficial!.
 				</p>
 				<p>Lizzie Thompson</p>
 										<img width="204" height="204" src="http://35.189.33.33/wp-content/uploads/2018/04/2-1.jpg" alt="" srcset="http://35.189.33.33/wp-content/uploads/2018/04/2-1.jpg 204w, http://35.189.33.33/wp-content/uploads/2018/04/2-1-150x150.jpg 150w" sizes="(max-width: 204px) 100vw, 204px" />											
 				<p>
-					I was introduced to FitFlex many years ago, twenty pounds ago in fact. I see a huge benefit with their combination of workout and goal setting.
+					This website provides more useful and helpful information related to risk factors of CVDs. The health status assessment provides a good insight about issues with current lifestyle. I think healthy lifestyle can be achieved when a 'healthy home' strategy is adopted.
 				</p>
 				<p>Emma Velasquez</p>
