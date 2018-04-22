@@ -29,7 +29,7 @@ post_date: 2018-04-14 20:45:25
 			<a href=" http://35.189.33.33/suggestions/" role="button">
 						LEARN
 					</a>
-			<h3>What Our Costumers say</h3>		
+			<h3>What Our uers say</h3>		
 										<img width="204" height="204" src="http://35.189.33.33/wp-content/uploads/2018/04/1-1.jpg" alt="" srcset="http://35.189.33.33/wp-content/uploads/2018/04/1-1.jpg 204w, http://35.189.33.33/wp-content/uploads/2018/04/1-1-150x150.jpg 150w" sizes="(max-width: 204px) 100vw, 204px" />											
 				<p>
 					As a person having high cholesterol levels and blood pressure, I was always worried about my risks of developing heart diseases. The 'CVD Helper' website provides good tips to improve one's lifestyle to reduce the risk of heart diseases. The information provided is simple to understand and I find it really beneficial!.
