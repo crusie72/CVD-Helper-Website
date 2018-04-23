@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2018-04-22 16:30:20
 ---
-<p><a style="font-size: 16px; color: #333333;" href="http://35.189.33.33/">Home</a> &gt; <a style="font-size: 16px; color: #333333;" href="http://35.189.33.33/suggestions/">Suggestions</a> &gt; Blood Pressure Suggestions</p>		
+<p><a style="font-size: 16px; color: #333333;" href="http://www.cvdhelper.tk/">Home</a> &gt; <a style="font-size: 16px; color: #333333;" href="http://www.cvdhelper.tk/suggestions/">Suggestions</a> &gt; Blood Pressure Suggestions</p>		
 			<h3>WHAT ARE THE BENEFITS you get from controlling blood pressure?</h3>		
 		<p>1)Lowering our blood pressure to a normal level prevents future damage and helps mitigate any previous damage by letting the heart work under optimal conditions.</p><p>2) It reduces our risk for developing a stroke but might not reduce the complications associated with a stroke. </p><p>3)Lowering your blood pressure to an acceptable level reduces the strain placed on the optic nerve, which is the nerve responsible for your ability to see well.</p><p>4) It can help prevent this vicious cycle and reduce the likelihood of total kidney failure.</p><p> </p>		
 			<h3>HOW CAN YOU ACHIEVE THIS?</h3>		
