@@ -29,14 +29,14 @@ post_date: 2018-04-14 20:45:25
 			<a href=" http://35.189.33.33/suggestions/" role="button">
 						LEARN
 					</a>
-			<h3>What Our uers say</h3>		
-										<img width="204" height="204" src="http://35.189.33.33/wp-content/uploads/2018/04/1-1.jpg" alt="" srcset="http://35.189.33.33/wp-content/uploads/2018/04/1-1.jpg 204w, http://35.189.33.33/wp-content/uploads/2018/04/1-1-150x150.jpg 150w" sizes="(max-width: 204px) 100vw, 204px" />											
+			<h3>What Our users say</h3>		
+										<img width="1024" height="768" src="http://35.189.33.33/wp-content/uploads/2018/04/WhatsApp-Image-2018-04-23-at-11.21.38-PM-1024x768.jpeg" alt="" srcset="http://35.189.33.33/wp-content/uploads/2018/04/WhatsApp-Image-2018-04-23-at-11.21.38-PM-1024x768.jpeg 1024w, http://35.189.33.33/wp-content/uploads/2018/04/WhatsApp-Image-2018-04-23-at-11.21.38-PM-300x225.jpeg 300w, http://35.189.33.33/wp-content/uploads/2018/04/WhatsApp-Image-2018-04-23-at-11.21.38-PM-768x576.jpeg 768w, http://35.189.33.33/wp-content/uploads/2018/04/WhatsApp-Image-2018-04-23-at-11.21.38-PM.jpeg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" />											
 				<p>
 					As a person having high cholesterol levels and blood pressure, I was always worried about my risks of developing heart diseases. The 'CVD Helper' website provides good tips to improve one's lifestyle to reduce the risk of heart diseases. The information provided is simple to understand and I find it really beneficial!.
 				</p>
-				<p>Lizzie Thompson</p>
-										<img width="204" height="204" src="http://35.189.33.33/wp-content/uploads/2018/04/2-1.jpg" alt="" srcset="http://35.189.33.33/wp-content/uploads/2018/04/2-1.jpg 204w, http://35.189.33.33/wp-content/uploads/2018/04/2-1-150x150.jpg 150w" sizes="(max-width: 204px) 100vw, 204px" />											
+				<p>Sasini Senarathne</p>
+										<img width="768" height="1024" src="http://35.189.33.33/wp-content/uploads/2018/04/WechatIMG12-768x1024.jpeg" alt="" srcset="http://35.189.33.33/wp-content/uploads/2018/04/WechatIMG12-768x1024.jpeg 768w, http://35.189.33.33/wp-content/uploads/2018/04/WechatIMG12-225x300.jpeg 225w, http://35.189.33.33/wp-content/uploads/2018/04/WechatIMG12.jpeg 1080w" sizes="(max-width: 768px) 100vw, 768px" />											
 				<p>
-					This website provides more useful and helpful information related to risk factors of CVDs. The health status assessment provides a good insight about issues with current lifestyle. I think healthy lifestyle can be achieved when a 'healthy home' strategy is adopted.
+					This website provides more useful and helpful information related to risk factors of CVDs. The self-testing quiz provides a good insight about issues with current lifestyle. I think healthy lifestyle can be achieved when a 'healthy home' strategy is adopted.
 				</p>
-				<p>Emma Velasquez</p>
+				<p>Bin Die</p>
