@@ -8,7 +8,7 @@ permalink: http://35.189.33.33/stress-suggestions/
 published: true
 post_date: 2018-04-22 03:31:22
 ---
-<p><a style="font-size: 16px; color: #333333;" href="http://35.189.33.33/">Home</a> &gt; <a style="font-size: 16px; color: #333333;" href="http://35.189.33.33/suggestions/">Suggestions</a> &gt; Stress Suggestions</p>		
+<p><a style="font-size: 16px; color: #333333;" href="http://www.cvdhelper.tk/">Home</a> &gt; <a style="font-size: 16px; color: #333333;" href="http://www.cvdhelper.tk/suggestions/">Suggestions</a> &gt; Stress Suggestions</p>		
 			<h3>WHAT ARE THE BENEFITS OF Managing stress?</h3>		
 		<p>1)People with heart disease who maintain an upbeat attitude are less likely to die than those who are more negative, according to research. Just having a good laugh can help your heart. Laughter has been found to lower levels of stress hormones, reduce inflammation in the arteries, and increase "good" HDL cholesterol.</p><p>2) It triggers weight loss, you are not at risk at getting obese as long as you are addicted to smoking. It suppresses the body's appetite and the desire to eat for a brief period of time, hence helps in weight loss.</p><p>3)Effective stress management makes you  happier, healthier, and more productive. </p><p>4) Better Stress management Boosts immune system</p><p>5) Decrease the Lowers blood pressure</p><p>6) Reduces risk of gall bladder diseases.</p><p>7) Reduces muscle tension</p><p>8)Lowers risk of developing certain cancers.</p><p> </p>		
 			<h3>HOW CAN YOU ACHIEVE THIS?</h3>		
