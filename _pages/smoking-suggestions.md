@@ -19,7 +19,7 @@ post_date: 2018-04-20 12:14:32
 										<img src="http://35.189.33.33/wp-content/uploads/elementor/thumbs/sm-np4o2d3kdievcycwdxawzm3pc9oafqlbqxao7l8kb4.png" title="sm" alt="sm" />											
 										<img src="http://35.189.33.33/wp-content/uploads/elementor/thumbs/bank-np4o7m15r2dxskw75lu3iv9ps20p2nn3cp0ftlxnjc.png" title="bank" alt="bank" />											
 			<h3>GOVERNMENT WEBSITES</h3>		
-<a style="color: #000080;" href="http://www.quitnow.gov.au/">http://www.quitnow.gov.au/</a>
+		<p>Click me for more information</p>		
 										<img width="984" height="95" src="http://35.189.33.33/wp-content/uploads/2018/04/smokewebsite.png" alt="" srcset="http://35.189.33.33/wp-content/uploads/2018/04/smokewebsite.png 984w, http://35.189.33.33/wp-content/uploads/2018/04/smokewebsite-300x29.png 300w, http://35.189.33.33/wp-content/uploads/2018/04/smokewebsite-768x74.png 768w" sizes="(max-width: 984px) 100vw, 984px" />											
 												References  					
 					<p><u>https://www.rd.com/health/wellness/quit-smoking/</u></p><p><u>http://www.quitnow.gov.au/.</u></p>
