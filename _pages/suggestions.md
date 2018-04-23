@@ -8,7 +8,8 @@ permalink: http://35.189.33.33/suggestions/
 published: true
 post_date: 2018-04-18 12:18:37
 ---
-<h1><br><br>Suggestions<br><br></h1>		
+<p>A step towards a healthy lifestyle...</p>		
+			<h2>Suggestions</h2>		
 											<a href="http://www.cvdhelper.tk/smoking-suggestions/" data-elementor-open-lightbox="">
 							<img width="150" height="150" src="http://35.189.33.33/wp-content/uploads/2018/04/ss-150x150.png" alt="" />								</a>
 		<p>Smoking is a major cause of cardiovascular disease. Australians a year and nearly 40 per cent of all deaths from smoking are due to cardiovascular disease.<a style="color: #ff0000;" href="http://www.cvdhelper.tk/smoking-suggestions/">click more</a></p>		
