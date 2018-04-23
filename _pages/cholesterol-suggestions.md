@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2018-04-22 14:27:04
 ---
-<p><a href="http://35.189.33.33/">Home</a> &gt; <a style="color: #333333;" href="http://35.189.33.33/suggestions/">Suggestions</a> &gt; Cholesterol Suggestions</p>		
+<p><a style="font-size: 16px; color: #333333;" href="http://www.cvdhelper.tk/">Home</a> &gt; <a style="font-size: 16px; color: #333333;" href="http://www.cvdhelper.tk/suggestions/">Suggestions</a> &gt; Cholesterol Suggestions</p>		
 			<h3>WHAT is the importance of Lower CHOLESTEROL?</h3>		
 		<p>Cholesterol in food has only a small effect on the bad (LDL) cholesterol in your blood. Saturated and trans fats in food causes a much greater increase in LDL cholesterol. And eating healthy fats helps the cholesterol balance by decreasing LDL and increasing the good (HDL) cholesterol.</p><p>1) The benefits of lowering total and LDL cholesterol have been demonstrated extensively, particularly in individuals with heart disease or at high risk of heart disease or stroke.</p><p>2) Keeping total fat intake low is an important way to lower cholesterol and reduce the risk of other chronic diseases. </p><p>3) Lowering LDL cholesterol levels has been repeatedly proven to improve Cardiovascular disease outcomes. </p><p>4)Reductions in LDL cholesterol approaching 50% are needed to halt the progression of the atherosclerotic plaque</p><p> </p>		
 			<h3>HOW CAN YOU control  CHOLESTEROL?</h3>		
