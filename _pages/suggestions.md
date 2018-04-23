@@ -17,7 +17,7 @@ post_date: 2018-04-18 12:18:37
 		<p>Smoking is a major cause of cardiovascular disease. Australians a year and nearly 40 per cent of all deaths from smoking are due to cardiovascular disease.<a style="color: #ff0000;" href="http://www.cvdhelper.tk/smoking-suggestions/">click more</a></p>		
 											<a href="http://www.cvdhelper.tk/alcohol-suggestions/" data-elementor-open-lightbox="">
 							<img width="150" height="150" src="http://35.189.33.33/wp-content/uploads/2018/04/all-150x150.png" alt="" />								</a>
-		<p>Alcohol use has complex effects on cardiovascular health.Low to moderate alcohol consumption is associated with positive effects on cardiovascular health.<a href="http://www.cvdhelper.tk/alcohol-suggestions/">click more</a></p>		
+		Alcohol use has complex effects on cardiovascular health.Low to moderate alcohol consumption is associated with positive effects on cardiovascular health.<a href="http://www.cvdhelper.tk/alcohol-suggestions/">click more</a>		
 											<a href="http://www.cvdhelper.tk/healthy-food-suggestions/" data-elementor-open-lightbox="">
 							<img width="150" height="150" src="http://35.189.33.33/wp-content/uploads/2018/04/icon-150x150.png" alt="" />								</a>
 		<p>Choosing the right foods can make a difference in living a long and healthy life or being faced with the prospect of a heart attack or heart disease as your body ages.<a style="color: #ff0000;" href="http://www.cvdhelper.tk/healthy-food-suggestions/">click more </a></p>		
