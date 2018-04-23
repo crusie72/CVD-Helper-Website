@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2018-04-22 16:16:06
 ---
-<p><a style="font-size: 16px; color: #333333;" href="http://35.189.33.33/">Home</a> &gt; <a style="font-size: 16px; color: #333333;" href="http://35.189.33.33/suggestions/">Suggestions</a> &gt; Diabetes Suggestions</p>		
+<p><a style="font-size: 16px; color: #333333;" href="http://www.cvdhelper.tk/">Home</a> &gt; <a style="font-size: 16px; color: #333333;" href="http://www.cvdhelper.tk/suggestions/">Suggestions</a> &gt; Diabetes Suggestions</p>		
 			<h3>WHAT ARE THE BENEFITS GET FROM CONTROL DIABETES?</h3>		
 		<p>1)By controlling too much sugar in the bloodstream also can give long-life to body tissues. </p><p>2) It strengthening of the vital organs, which can reduce the risk of heart disease and stroke, kidney disease,vision problems, and nerve problems. </p><p>3)There is a large drop in your risk of heart attack and stroke and this risk will continue to gradually decrease over time.</p><p>4)Control of diabetes will also help to metabolic syndrome.</p><p>5)Also reduces the risk of cancer with a diabetes diet in our body</p><p>6) The healthy lifestyle that can control diabetes also helps to prevent other physical problems. </p><p>7)By controlling diabetes you can reduces the risk of all other health conditions.</p>		
 			<h3>HOW CAN YOU ACHIEVE THIS?</h3>		
