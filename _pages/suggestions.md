@@ -10,20 +10,18 @@ post_date: 2018-04-18 12:18:37
 ---
 <p><strong>A step towards a healthy lifestyle...</strong></p>		
 			<h2>Suggestions</h2>		
-			<a href="#Sugg">
-			</a>
 											<a href="http://www.cvdhelper.tk/smoking-suggestions/" data-elementor-open-lightbox="">
 							<img width="150" height="150" src="http://35.189.33.33/wp-content/uploads/2018/04/ss-150x150.png" alt="" />								</a>
-		<p>Smoking is a major cause of cardiovascular disease. Australians a year and nearly 40 per cent of all deaths from smoking are due to cardiovascular disease.<a style="color: #ff0000;" href="http://www.cvdhelper.tk/smoking-suggestions/">click more</a></p>		
+		<p style="text-align: left;">Smoking is a major cause of cardiovascular disease. Australians a year and nearly 40 per cent of all deaths from smoking are due to cardiovascular disease.<a style="color: #ff0000;" href="http://www.cvdhelper.tk/smoking-suggestions/">click more</a></p>		
 											<a href="http://www.cvdhelper.tk/alcohol-suggestions/" data-elementor-open-lightbox="">
 							<img width="150" height="150" src="http://35.189.33.33/wp-content/uploads/2018/04/all-150x150.png" alt="" />								</a>
-		Alcohol use has complex effects on cardiovascular health.Low to moderate alcohol consumption is associated with positive effects on cardiovascular health.<a href="http://www.cvdhelper.tk/alcohol-suggestions/">click more</a>		
+		<p style="text-align: left;">Alcohol use has complex effects on  cardiovascular (CV) Low to moderate alcohol consumption is associated with positive effects on cardiovascular health.<a style="color: #ff0000;" href="http://www.cvdhelper.tk/alcohol-suggestions/">click more </a></p>		
 											<a href="http://www.cvdhelper.tk/healthy-food-suggestions/" data-elementor-open-lightbox="">
 							<img width="150" height="150" src="http://35.189.33.33/wp-content/uploads/2018/04/icon-150x150.png" alt="" />								</a>
-		<p>Choosing the right foods can make a difference in living a long and healthy life or being faced with the prospect of a heart attack or heart disease as your body ages.<a style="color: #ff0000;" href="http://www.cvdhelper.tk/healthy-food-suggestions/">click more </a></p>		
+		<p style="font-size: 16px; font-style: normal; font-weight: 400;">Choosing the right foods can make a difference in living a long and healthy life or being faced with the prospect of a heart attack or heart disease as your body ages.<a style="font-size: 15.9991px; color: #ff0000;" href="http://www.cvdhelper.tk/healthy-food-suggestions/">click more </a></p><p style="font-size: 16px; font-style: normal; font-weight: 400;"> </p><p style="font-size: 16px; font-style: normal; font-weight: 400;"> </p>		
 											<a href="http://www.cvdhelper.tk/stress-suggestions/" data-elementor-open-lightbox="">
 							<img width="150" height="150" src="http://35.189.33.33/wp-content/uploads/2018/04/stress-3-150x150.png" alt="" />								</a>
-		<p>Constant stress can contribute to long-term problems for heart and blood vessels.Learning skills to manage your stress more effectively can be beneficial to health.<a href="http://www.cvdhelper.tk/stress-suggestions/">click more </a></p>		
+		<p style="font-size: 16px; font-style: normal; font-weight: 400;">Constant stress can contribute to long-term problems for <em style="font-size: 15.9991px; font-style: normal;">heart</em> and blood vessels. Learning skills to manage your stress more effectively can be beneficial to health.<a style="font-size: 15.9991px; color: #ff0000;" href="http://www.cvdhelper.tk/stress-suggestions/">click more </a></p>		
 											<a href="http://www.cvdhelper.tk/being-active-suggestions/" data-elementor-open-lightbox="">
 							<img width="150" height="150" src="http://35.189.33.33/wp-content/uploads/2018/04/act-150x150.png" alt="" />								</a>
 		<p>Risk factors for CVD are consistent throughout the world, and this includes lack of physical activity.Regular exercise will improve the quality of life.<a style="font-family: 'Sk-Modernist', Arial, sans-serif; font-style: normal; font-weight: 400; background-color: #ffffff;" href="http://www.cvdhelper.tk/being-active-suggestions/">click more</a></p>		
