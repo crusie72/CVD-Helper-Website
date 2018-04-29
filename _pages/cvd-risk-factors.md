@@ -22,31 +22,31 @@ post_date: 2018-04-14 21:16:35
                         Psychological Distress7%
                         Self-assessed Health Status10.2%
                         Smoker Status7.6%
-			<a href="#" role="button">
+			<a href="#popmake-1162" role="button">
 						View Detail
 					</a>
-			<a href="#" role="button">
+			<a href="#popmake-1165" role="button">
 						View Detail
 					</a>
-			<a href="#" role="button">
+			<a href="#popmake-1167" role="button">
 						View Detail
 					</a>
-			<a href="#" role="button">
+			<a href="#popmake-1169" role="button">
 						View Detail
 					</a>
-			<a href="#" role="button">
+			<a href="#popmake-1171" role="button">
 						View Detail
 					</a>
-			<a href="#" role="button">
+			<a href="#popmake-1173" role="button">
 						View Detail
 					</a>
-			<a href="#" role="button">
+			<a href="#popmake-1175" role="button">
 						View Detail
 					</a>
-			<a href="#" role="button">
+			<a href="#popmake-1177" role="button">
 						View Detail
 					</a>
-			<a href="#" role="button">
+			<a href="#popmake-1179" role="button">
 						View Detail
 					</a>
 			<a href="#popmake-1181" role="button">
