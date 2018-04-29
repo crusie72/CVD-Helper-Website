@@ -22,9 +22,6 @@ post_date: 2018-04-14 21:16:35
                         Psychological Distress7%
                         Self-assessed Health Status10.2%
                         Smoker Status7.6%
-			<a href="#	popmake-1181|popmake-smoker-status" role="button">
-						View Detail
-					</a>
 			<a href="#" role="button">
 						View Detail
 					</a>
@@ -49,7 +46,10 @@ post_date: 2018-04-14 21:16:35
 			<a href="#" role="button">
 						View Detail
 					</a>
-			<a href="#	popmake-1181|popmake-smoker-status" role="button">
+			<a href="#" role="button">
+						View Detail
+					</a>
+			<a href="#popmake-1181" role="button">
 						View Detail
 					</a>
 			<a href="http://www.cvdhelper.tk/self-testing/" role="button">
