@@ -49,7 +49,7 @@ post_date: 2018-04-14 21:16:35
 			<a href="#" role="button">
 						View Detail
 					</a>
-			<a href="#" role="button">
+			<a href="#	popmake-1181|popmake-smoker-status" role="button">
 						View Detail
 					</a>
 			<a href="http://www.cvdhelper.tk/self-testing/" role="button">
