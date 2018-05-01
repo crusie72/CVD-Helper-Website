@@ -4,7 +4,7 @@ post_title: Home
 author: Cruise72
 post_excerpt: ""
 layout: page
-permalink: http://35.189.33.33/
+permalink: http://35.189.23.28/
 published: true
 post_date: 2018-04-14 20:45:25
 ---
