@@ -12,7 +12,7 @@ post_date: 2018-04-18 12:18:37
 		<p><strong>A step towards a healthy lifestyle...</strong></p>		
 											<a href="http://www.cvdhelper.tk/smoking-suggestions/" data-elementor-open-lightbox="">
 							<img width="150" height="150" src="http://35.189.23.28/wp-content/uploads/2018/04/ss-150x150.png" alt="" />								</a>
-											<a href="http://www.cvdhelper.tk/test" data-elementor-open-lightbox="">
+											<a href="http://www.cvdhelper.tk/alcohol-consumption/" data-elementor-open-lightbox="">
 							<img width="150" height="150" src="http://35.189.23.28/wp-content/uploads/2018/04/all-150x150.png" alt="" />								</a>
 											<a href="http://www.cvdhelper.tk/healthy-food-suggestions/" data-elementor-open-lightbox="">
 							<img width="150" height="150" src="http://35.189.23.28/wp-content/uploads/2018/04/icon-150x150.png" alt="" />								</a>
