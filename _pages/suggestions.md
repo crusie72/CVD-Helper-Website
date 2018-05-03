@@ -26,3 +26,4 @@ post_date: 2018-04-18 12:18:37
 							<img width="150" height="150" src="http://35.189.23.28/wp-content/uploads/2018/04/bppp-150x150.png" alt="" srcset="http://35.189.23.28/wp-content/uploads/2018/04/bppp-150x150.png 150w, http://35.189.23.28/wp-content/uploads/2018/04/bppp-300x298.png 300w, http://35.189.23.28/wp-content/uploads/2018/04/bppp.png 337w" sizes="(max-width: 150px) 100vw, 150px" />								</a>
 											<a href="http://www.cvdhelper.tk/diabetes-suggestions/" data-elementor-open-lightbox="">
 							<img width="150" height="150" src="http://35.189.23.28/wp-content/uploads/2018/04/dd-2-150x150.png" alt="" srcset="http://35.189.23.28/wp-content/uploads/2018/04/dd-2-150x150.png 150w, http://35.189.23.28/wp-content/uploads/2018/04/dd-2-300x297.png 300w" sizes="(max-width: 150px) 100vw, 150px" />								</a>
+			<h3>Check out your nearest Healthy Groups</h3>
