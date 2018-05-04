@@ -4,7 +4,7 @@ post_title: Suggestions
 author: Cruise72
 post_excerpt: ""
 layout: page
-permalink: http://35.189.23.28/suggestions/
+permalink: http://35.197.170.190/suggestions/
 published: true
 post_date: 2018-04-18 12:18:37
 ---
