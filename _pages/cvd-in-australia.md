@@ -4,7 +4,7 @@ post_title: CVD IN AUSTRALIA
 author: Cruise72
 post_excerpt: ""
 layout: page
-permalink: http://35.189.33.33/cvd-in-australia/
+permalink: http://35.197.170.190/cvd-in-australia/
 published: true
 post_date: 2018-04-19 16:42:27
 ---
