@@ -9,4 +9,4 @@ published: true
 post_date: 2018-04-14 21:06:43
 ---
 <h2>Self-testing</h2>		
-		<p>There should be something you need to be aware of......</p>[wpforms id="1284" title="false" description="false"]
+		<p>There should be something you need to be aware of......</p>[wpforms id="1284" title="false" description="false"][printfriendly]
