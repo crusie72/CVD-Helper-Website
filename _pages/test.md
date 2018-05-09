@@ -188,4 +188,9 @@ post_date: 2018-05-01 00:37:07
 							</h6>
 				<a href="http://35.197.170.190/medical-news-today-high-blood-pressure-drinking-kefir-could-lower-it/"
 				   title="Click Here ">Click Here </a>
-			<!-- .obfx-grid-col-content --></article><!-- .obfx-grid-container --><!-- .obfx-grid -->
+			<!-- .obfx-grid-col-content --></article>				
+										<nav>
+						1
+<a class='page-numbers' href='http://35.197.170.190/wp-admin/admin-ajax.php?paged=2'>2</a>
+<a href="http://35.197.170.190/wp-admin/admin-ajax.php?paged=2">Next</a>					</nav>
+				<!-- .obfx-grid-container --><!-- .obfx-grid -->
