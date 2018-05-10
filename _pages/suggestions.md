@@ -8,8 +8,8 @@ permalink: http://35.197.184.33/suggestions/
 published: true
 post_date: 2018-04-18 12:18:37
 ---
-<h2>Health Suggestions</h2>		
-		<p>A step towards healthy lifestyle....</p>		
+<h2>Suggestions</h2>		
+		<p><strong>A step towards a healthy lifestyle...</strong></p>		
 											<a href="http://www.cvdhelper.tk/blood-pressure-suggestions/" data-elementor-open-lightbox="">
 							<img width="145" height="150" src="http://35.197.184.33/wp-content/uploads/2018/05/blood-145x150.png" alt="" />								</a>
 											<a href="http://www.cvdhelper.tk/alcohol-suggestions/" data-elementor-open-lightbox="">
