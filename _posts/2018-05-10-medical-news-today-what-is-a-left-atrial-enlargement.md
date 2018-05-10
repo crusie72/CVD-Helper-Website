@@ -17,6 +17,4 @@ Left atrial enlargement is linked to several conditions, including atrial fibril
 
 &nbsp;
 
-&nbsp;
-
 <a class="button purchase" style="white-space: nowrap;" href="https://www.medicalnewstoday.com/articles/321242.php" target="_blank" rel="nofollow noopener">Read more</a>
