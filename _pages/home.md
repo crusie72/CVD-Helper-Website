@@ -16,7 +16,7 @@ post_date: 2018-04-14 20:45:25
 			<h3>What you can learn from us</h3>		
 										<img width="150" height="150" src="http://35.197.184.33/wp-content/uploads/2018/04/icon_herz-150x150.png" alt="" srcset="http://35.197.184.33/wp-content/uploads/2018/04/icon_herz-150x150.png 150w, http://35.197.184.33/wp-content/uploads/2018/04/icon_herz.png 250w" sizes="(max-width: 150px) 100vw, 150px" />											
 		<h3 style="text-align: center;">Risk Factors</h3><p style="text-align: center;">We will provide more useful and helpful information based on risk factors of CVDs to gain your knowledge about them.</p>		
-			<a href="http://35.197.184.33/wp-admin/post.php?post=161&amp;action=edit" role="button">
+			<a href=" http://35.197.184.33/cvd-risk-factors/" role="button">
 						LEARN
 					</a>
 										<img width="150" height="150" src="http://35.197.184.33/wp-content/uploads/2018/04/plate-150x150.png" alt="" srcset="http://35.197.184.33/wp-content/uploads/2018/04/plate-150x150.png 150w, http://35.197.184.33/wp-content/uploads/2018/04/plate.png 260w" sizes="(max-width: 150px) 100vw, 150px" />											
