@@ -13,5 +13,5 @@ permalink: >
 published: true
 post_date: 2018-05-10 02:06:18
 ---
-Left atrial enlargement is linked to several conditions, including atrial fibrillation and heart failure. Learn more about the causes and treatment.asdfghjklkjmnbvfdsdfghjkjhgfdsdfghjkl<br/><br/>
+Left atrial enlargement is linked to several conditions, including atrial fibrillation and heart failure. Learn more about the causes and treatment which are related to Left atrial enlargement<br/><br/>
 <a class="button purchase" style="white-space: nowrap;" href="https://www.medicalnewstoday.com/articles/321242.php" target="_blank" rel="nofollow noopener">Read more</a>
