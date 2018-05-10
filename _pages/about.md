@@ -4,7 +4,7 @@ post_title: About
 author: Cruise72
 post_excerpt: ""
 layout: page
-permalink: http://35.197.170.190/about/
+permalink: http://35.197.184.33/about/
 published: true
 post_date: 2018-04-16 13:03:37
 ---
