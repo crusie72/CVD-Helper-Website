@@ -13,6 +13,6 @@ permalink: >
 published: true
 post_date: 2018-05-10 02:05:56
 ---
-The main types of diabetes are classified as type 1 and type 2. A new study, however, says that the condition should be categorized as five types.cannot process potassium properly, which can then build up in the blood and cause weakness, fat...
+The main types of diabetes are classified as type 1 and type 2. A new study, however, says that the condition should be categorized as five types.cannot process potassium properly, which can then build up in the blood and cause weakness, fat and will control...
 
 <a class="button purchase" style="white-space: nowrap;" href="https://www.medicalnewstoday.com/articles/321097.php" target="_blank" rel="nofollow noopener">Read more</a>
