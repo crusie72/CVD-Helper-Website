@@ -17,5 +17,6 @@ The main types of diabetes are classified as type 1 and type 2. A new study, how
 
 &nbsp;
 
+&nbsp;
 
 <a class="button purchase" style="white-space: nowrap;" href="https://www.medicalnewstoday.com/articles/321097.php" target="_blank" rel="nofollow noopener">Read more</a>
