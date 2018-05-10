@@ -13,4 +13,4 @@ permalink: >
 published: true
 post_date: 2018-05-10 02:05:56
 ---
-<p>The main types of diabetes are classified as type 1 and type 2. A new study, however, says that the condition should be categorized as five types.</p><p> </p><p><a style="font-size: 16px; font-weight: inherit; white-space: nowrap;" href="https://www.medicalnewstoday.com/articles/321097.php" target="_blank" rel="nofollow noopener">Read more</a></p>
+<p>The main types of diabetes are classified as type 1 and type 2. A new study, however, says that the condition should be categorized as five types.</p><p> </p><p> </p><p> </p><p><a style="font-size: 16px; font-weight: inherit; white-space: nowrap;" href="https://www.medicalnewstoday.com/articles/321097.php" target="_blank" rel="nofollow noopener">Read more</a></p>
