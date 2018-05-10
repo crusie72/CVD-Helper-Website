@@ -17,7 +17,4 @@ post_date: 2018-05-10 02:06:29
 ---
 Vitamin D has been found to protect the heart against heart failure following a heart attack. Now, a new study describes how this might work.
 
-&nbsp;
-
-
 <a class="button purchase" style="white-space: nowrap;" href="https://www.medicalnewstoday.com/articles/321167.php" target="_blank" rel="nofollow noopener">Read more</a>
