@@ -35,8 +35,9 @@ post_date: 2018-05-01 00:37:07
 							<a href="http://35.197.184.33/medical-news-today-what-is-a-left-atrial-enlargement/" title="Medical News Today: What is a left atrial enlargement?">
 					Medical News Today: What is a left atrial enlargement?				</a>
 							</h6>
-				<p>Left atrial enlargement is linked to several conditions, including atrial fibrillation and heart failure. Learn more about the causes and treatment.</p>
-<p><a style="white-space: nowrap" href="https://www.medicalnewstoday.com/articles/321242.php" rel="nofollow noopener" target="_blank">Read more</a></p>
+				<p>Left atrial enlargement is linked to several conditions, including atrial fibrillation and heart failure. Learn more about the causes and treatment.<br />
+&nbsp;</p>
+<p><a style="white-space: nowrap;" href="https://www.medicalnewstoday.com/articles/321242.php" target="_blank" rel="nofollow noopener">Read more</a></p>
 			<!-- .obfx-grid-col-content --></article><article>					
 						<a href="http://35.197.184.33/medical-news-today-heart-failure-flu-shot-may-slash-death-risk/" title="Medical News Today: Heart failure: Flu shot may slash death risk">
 							<img width="1100" height="825" src="http://35.197.184.33/wp-content/uploads/2018/05/1623/321062_1100.jpg" alt="321062_1100.jpg" srcset="http://35.197.184.33/wp-content/uploads/2018/05/1623/321062_1100.jpg 1100w, http://35.197.184.33/wp-content/uploads/2018/05/1623/321062_1100-300x225.jpg 300w, http://35.197.184.33/wp-content/uploads/2018/05/1623/321062_1100-768x576.jpg 768w, http://35.197.184.33/wp-content/uploads/2018/05/1623/321062_1100-1024x768.jpg 1024w" sizes="(max-width: 1100px) 100vw, 1100px" />						</a>
