@@ -13,13 +13,9 @@ post_date: 2018-04-16 13:03:37
 			<h2>Our Team</h2>		
 			<figure><img width="169" height="169" src="http://35.197.184.33/wp-content/uploads/2018/04/3.png" alt="" srcset="http://35.197.184.33/wp-content/uploads/2018/04/3.png 169w, http://35.197.184.33/wp-content/uploads/2018/04/3-150x150.png 150w" sizes="(max-width: 169px) 100vw, 169px" /></figure><h3>Savetha Sridharan</h3>		
 		<p>Business information system postgraduate student, whose specialities are business analysis, user interface design and project management.</p>		
-		<p>ssri75@student.monash.edu</p>		
 			<figure><img width="169" height="169" src="http://35.197.184.33/wp-content/uploads/2018/04/4.png.1.png" alt="" srcset="http://35.197.184.33/wp-content/uploads/2018/04/4.png.1.png 169w, http://35.197.184.33/wp-content/uploads/2018/04/4.png.1-150x150.png 150w" sizes="(max-width: 169px) 100vw, 169px" /></figure><h3>Zhi Yi</h3>		
 		<p>Business information system postgraduate student, whose specialities are business analysis, user interface design and web application design.</p>		
-		<p>zyi8@student.monash.edu</p>		
 			<figure><img width="169" height="169" src="http://35.197.184.33/wp-content/uploads/2018/04/1.png.2.png" alt="" srcset="http://35.197.184.33/wp-content/uploads/2018/04/1.png.2.png 169w, http://35.197.184.33/wp-content/uploads/2018/04/1.png.2-150x150.png 150w" sizes="(max-width: 169px) 100vw, 169px" /></figure><h3>Pengda Liao</h3>		
 		<p>Data science postgraduate student, whose specialities are data analysis, data modelling and data visualisation. Also interested about UI design.</p>		
-		<p>plia12@student.monash.edu</p>		
 			<figure><img width="169" height="169" src="http://35.197.184.33/wp-content/uploads/2018/04/2.png.1.png" alt="" srcset="http://35.197.184.33/wp-content/uploads/2018/04/2.png.1.png 169w, http://35.197.184.33/wp-content/uploads/2018/04/2.png.1-150x150.png 150w" sizes="(max-width: 169px) 100vw, 169px" /></figure><h3>Hemanth Kumar</h3>		
-		<p>Information technology postgraduate student, whose specialities are programming. Also interested about graphics design and UI design.</p>		
-		<p>hpuj0001@student.monash.edu</p>
+		<p>Information technology postgraduate student, whose specialities are programming. Also interested about graphics design and UI design.</p>
