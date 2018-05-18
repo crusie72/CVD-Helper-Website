@@ -4,7 +4,8 @@ post_title: Alcohol Suggestions
 author: Cruise72
 post_excerpt: ""
 layout: page
-permalink: http://35.189.23.28/alcohol-suggestions/
+permalink: >
+  http://35.197.184.33/alcohol-suggestions/
 published: true
 post_date: 2018-04-21 23:57:49
 ---
