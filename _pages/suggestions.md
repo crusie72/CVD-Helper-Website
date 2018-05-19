@@ -16,7 +16,7 @@ post_date: 2018-04-18 12:18:37
 											<a href="http://www.cvdhelper.tk/blood-pressure-suggestions/" data-elementor-open-lightbox="">
 							<img width="145" height="150" src="http://35.197.184.33/wp-content/uploads/2018/05/BP-145x150.png" alt="" />								</a>
 											<a href="http://www.cvdhelper.tk/stress-suggestions/" data-elementor-open-lightbox="">
-															</a>
+							<img width="148" height="150" src="http://35.197.184.33/wp-content/uploads/2018/05/AA-148x150.png" alt="" />								</a>
 											<a href="http://www.cvdhelper.tk/being-active-suggestions/" data-elementor-open-lightbox="">
 							<img width="147" height="150" src="http://35.197.184.33/wp-content/uploads/2018/05/BA-147x150.png" alt="" />								</a>
 											<a href="http://www.cvdhelper.tk/cholesterol-suggestions/" data-elementor-open-lightbox="">
