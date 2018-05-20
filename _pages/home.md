@@ -11,7 +11,7 @@ post_date: 2018-04-14 20:45:25
 <h4>Healthy is Having<br>Healthy Heart.</h4>		
 			<h2><h2 data-elementor-setting-key="title" data-pen-placeholder="Type Here..." style="font-style: normal; font-family: sk-modernist; color: rgb(32, 44, 94);">Know more about yourself</h2></h2>		
 			<a href="http://www.cvdhelper.tk/self-testing/" role="button">
-						Start Now
+						Start now
 					</a>
 			<h3>What we can provide</h3>		
 											<a href="http://www.cvdhelper.tk/cvd-risk-factors/" data-elementor-open-lightbox="">
