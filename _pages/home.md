@@ -23,7 +23,7 @@ post_date: 2018-04-14 20:45:25
 											<a href="http://www.cvdhelper.tk/suggestions/" data-elementor-open-lightbox="">
 							<img width="150" height="150" src="http://35.197.184.33/wp-content/uploads/2018/04/images-150x150.png" alt="" srcset="http://35.197.184.33/wp-content/uploads/2018/04/images-150x150.png 150w, http://35.197.184.33/wp-content/uploads/2018/04/images.png 225w" sizes="(max-width: 150px) 100vw, 150px" />								</a>
 		<h3 style="text-align: center;">Health Suggestion</h3><p style="text-align: center;"> </p>		
-			<h3>What Our users say</h3>		
+			<h3>What our users say</h3>		
 										<img width="768" height="1024" src="http://35.197.184.33/wp-content/uploads/2018/04/WechatIMG13-768x1024.jpeg" alt="" srcset="http://35.197.184.33/wp-content/uploads/2018/04/WechatIMG13-768x1024.jpeg 768w, http://35.197.184.33/wp-content/uploads/2018/04/WechatIMG13-225x300.jpeg 225w, http://35.197.184.33/wp-content/uploads/2018/04/WechatIMG13.jpeg 1080w" sizes="(max-width: 768px) 100vw, 768px" />											
 				<p>
 					As a person having high cholesterol levels and blood pressure, I was always worried about my risks of developing heart diseases. The 'CVD Helper' website provides good tips to improve my lifestyle to reduce the risk of heart diseases. 
