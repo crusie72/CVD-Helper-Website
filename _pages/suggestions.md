@@ -25,7 +25,8 @@ post_date: 2018-04-18 12:18:37
 							<img width="147" height="150" src="http://35.197.184.33/wp-content/uploads/2018/05/mhe-147x150.png" alt="" />								</a>
 											<a href="http://www.cvdhelper.tk/diabetes-suggestions/" data-elementor-open-lightbox="">
 							<img width="146" height="150" src="http://35.197.184.33/wp-content/uploads/2018/05/diabetes-1-146x150.png" alt="" />								</a>
-			<h2>Explore health programs in your area. Start today!</h2>		
+			<h2>Explore health programs nearby.
+Start today!</h2>		
 					<ul>
 							<li >
 					<a href="#popmake-1652">						
