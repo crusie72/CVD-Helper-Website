@@ -4,7 +4,8 @@ post_title: Smoking suggestions
 author: Cruise72
 post_excerpt: ""
 layout: page
-permalink: http://35.189.33.33/smoking-suggestions/
+permalink: >
+  http://35.197.184.33/smoking-suggestions/
 published: true
 post_date: 2018-04-20 12:14:32
 ---
