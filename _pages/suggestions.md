@@ -10,9 +10,9 @@ post_date: 2018-04-18 12:18:37
 ---
 <h2>Suggestions</h2>		
 											<a href="http://www.cvdhelper.tk/smoking-suggestions/" data-elementor-open-lightbox="">
-							<img width="148" height="150" src="http://35.189.33.246/wp-content/uploads/2018/05/ss-148x150.png" alt="" />								</a>
+							<img width="147" height="150" src="http://35.189.33.246/wp-content/uploads/2018/05/ss1-147x150.png" alt="" />								</a>
 											<a href="http://www.cvdhelper.tk/alcohol-suggestions/" data-elementor-open-lightbox="">
-							<img width="150" height="150" src="http://35.189.33.246/wp-content/uploads/2018/05/xac-150x150.png" alt="" srcset="http://35.189.33.246/wp-content/uploads/2018/05/xac-150x150.png 150w, http://35.189.33.246/wp-content/uploads/2018/05/xac.png 151w" sizes="(max-width: 150px) 100vw, 150px" />								</a>
+							<img width="150" height="150" src="http://35.189.33.246/wp-content/uploads/2018/05/Alco-150x150.jpg" alt="" srcset="http://35.189.33.246/wp-content/uploads/2018/05/Alco-150x150.jpg 150w, http://35.189.33.246/wp-content/uploads/2018/05/Alco.jpg 151w" sizes="(max-width: 150px) 100vw, 150px" />								</a>
 											<a href="http://www.cvdhelper.tk/blood-pressure-suggestions/" data-elementor-open-lightbox="">
 							<img width="145" height="150" src="http://35.189.33.246/wp-content/uploads/2018/05/BPs-145x150.png" alt="" />								</a>
 											<a href="http://www.cvdhelper.tk/stress-suggestions/" data-elementor-open-lightbox="">
