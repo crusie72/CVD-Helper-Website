@@ -12,7 +12,7 @@ post_date: 2018-04-18 12:18:37
 											<a href="http://www.cvdhelper.tk/smoking-suggestions/" data-elementor-open-lightbox="">
 							<img width="148" height="150" src="http://35.197.184.33/wp-content/uploads/2018/05/ss-148x150.png" alt="" />								</a>
 											<a href="http://www.cvdhelper.tk/alcohol-suggestions/" data-elementor-open-lightbox="">
-							<img width="150" height="150" src="http://35.197.184.33/wp-content/uploads/2018/05/alcc.png" alt="" />								</a>
+							<img width="150" height="150" src="http://35.197.184.33/wp-content/uploads/2018/05/aa-1-150x150.png" alt="" srcset="http://35.197.184.33/wp-content/uploads/2018/05/aa-1-150x150.png 150w, http://35.197.184.33/wp-content/uploads/2018/05/aa-1.png 151w" sizes="(max-width: 150px) 100vw, 150px" />								</a>
 											<a href="http://www.cvdhelper.tk/blood-pressure-suggestions/" data-elementor-open-lightbox="">
 							<img width="145" height="150" src="http://35.197.184.33/wp-content/uploads/2018/05/BPs-145x150.png" alt="" />								</a>
 											<a href="http://www.cvdhelper.tk/stress-suggestions/" data-elementor-open-lightbox="">
@@ -22,7 +22,7 @@ post_date: 2018-04-18 12:18:37
 											<a href="http://www.cvdhelper.tk/cholesterol-suggestions/" data-elementor-open-lightbox="">
 							<img width="144" height="150" src="http://35.197.184.33/wp-content/uploads/2018/05/cholo1-144x150.png" alt="" />								</a>
 											<a href="http://www.cvdhelper.tk/healthy-food-suggestions/" data-elementor-open-lightbox="">
-							<img width="147" height="150" src="http://35.197.184.33/wp-content/uploads/2018/05/mhe-147x150.png" alt="" />								</a>
+							<img width="147" height="150" src="http://35.197.184.33/wp-content/uploads/2018/05/Health-1-147x150.png" alt="" />								</a>
 											<a href="http://www.cvdhelper.tk/diabetes-suggestions/" data-elementor-open-lightbox="">
 							<img width="146" height="150" src="http://35.197.184.33/wp-content/uploads/2018/05/diabetes-1-146x150.png" alt="" />								</a>
 			<h2>Explore health programs nearby.
