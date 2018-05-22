@@ -4,7 +4,7 @@ post_title: Self-testing
 author: Cruise72
 post_excerpt: ""
 layout: page
-permalink: http://35.197.184.33/self-testing/
+permalink: http://35.189.33.246/self-testing/
 published: true
 post_date: 2018-04-14 21:06:43
 ---
