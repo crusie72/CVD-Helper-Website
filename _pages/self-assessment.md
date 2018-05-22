@@ -4,7 +4,7 @@ post_title: Self-assessment
 author: Cruise72
 post_excerpt: ""
 layout: page
-permalink: http://35.189.33.246/self-testing/
+permalink: http://35.189.33.246/self-assessment/
 published: true
 post_date: 2018-04-14 21:06:43
 ---
