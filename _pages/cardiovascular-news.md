@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2018-05-01 00:37:07
 ---
-<h2><b>Latest News related to Cardiovascular</b></h2>		
+<h2><b>Latest News related to Cardiovascular Disease</b></h2>		
 			<article>					
 						<img width="1100" height="825" src="http://35.189.33.246/wp-content/uploads/2018/05/1607/321126_1100.jpg" alt="321126_1100.jpg" srcset="http://35.189.33.246/wp-content/uploads/2018/05/1607/321126_1100.jpg 1100w, http://35.189.33.246/wp-content/uploads/2018/05/1607/321126_1100-300x225.jpg 300w, http://35.189.33.246/wp-content/uploads/2018/05/1607/321126_1100-768x576.jpg 768w, http://35.189.33.246/wp-content/uploads/2018/05/1607/321126_1100-1024x768.jpg 1024w" sizes="(max-width: 1100px) 100vw, 1100px" />					
 								<h6>
