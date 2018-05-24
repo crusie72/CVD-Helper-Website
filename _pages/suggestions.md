@@ -12,7 +12,7 @@ post_date: 2018-04-18 12:18:37
 											<a href="http://www.cvdhelper.tk/smoking-suggestions/" data-elementor-open-lightbox="">
 							<img width="147" height="150" src="http://35.189.33.246/wp-content/uploads/2018/05/ss1-147x150.png" alt="" />								</a>
 											<a href="http://www.cvdhelper.tk/alcohol-suggestions/" data-elementor-open-lightbox="">
-							<img width="150" height="150" src="http://35.189.33.246/wp-content/uploads/2018/05/Alcohol-150x150.png" alt="" srcset="http://35.189.33.246/wp-content/uploads/2018/05/Alcohol-150x150.png 150w, http://35.189.33.246/wp-content/uploads/2018/05/Alcohol.png 151w" sizes="(max-width: 150px) 100vw, 150px" />								</a>
+							<img width="149" height="150" src="http://35.189.33.246/wp-content/uploads/2018/05/Alcohol1-149x150.png" alt="" />								</a>
 											<a href="http://www.cvdhelper.tk/blood-pressure-suggestions/" data-elementor-open-lightbox="">
 							<img width="145" height="150" src="http://35.189.33.246/wp-content/uploads/2018/05/BPs-145x150.png" alt="" />								</a>
 											<a href="http://www.cvdhelper.tk/stress-suggestions/" data-elementor-open-lightbox="">
