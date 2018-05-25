@@ -4,7 +4,7 @@ post_title: Home
 author: Cruise72
 post_excerpt: ""
 layout: page
-permalink: http://35.189.33.246/
+permalink: http://www.cvdhelper.tk/
 published: true
 post_date: 2018-04-14 20:45:25
 ---
